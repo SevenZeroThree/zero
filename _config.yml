@@ -1,2 +1,9 @@
 # Theme Settings
 remote_theme: sevenzerothree/zero
+
+# Site Settings
+title: Zero by SevenZeroThree
+
+# Github repositories
+github_user: sevenzerothree
+github_repo_url: https://github.com/sevenzerothree/zero/
