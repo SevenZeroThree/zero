@@ -3,6 +3,8 @@ remote_theme: sevenzerothree/zero
 
 # Site Settings
 title: Zero by SevenZeroThree 
+url                       : https://sevenzerothree.github.io
+baseurl                   : /Zero
 
 # Github repositories
 github_user: sevenzerothree
