@@ -1,5 +1,10 @@
 title: Zero
 
+# Analytics
+analytics:
+  google_tracking_id      : # "UA-XXXXXXX-X"
+  google_tag_manager_id   : # "GTM-XXXXX"
+
 gems:
   - jekyll-sitemap
   - jekyll-seo-tag
