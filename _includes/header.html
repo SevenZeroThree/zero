@@ -9,9 +9,15 @@
 		<div class="col">
 			<nav id="main-nav">
 				<ul class="nav justify-content">
-					{%- for item in site.data.navigation.main -%}
+					{%- for link in site.data.navigation.main -%}
+						{%- if link.url contains '://' -%}
+							{%- assign url = link.url -%}
+						{%- else -%}
+							{%- assign url = link.url | relative_url -%}
+						{%- endif -%}
+
 						<li class="nav-item">
-							<a href="{{ item.url }}" alt="{{ item.title }}" class="nav-link text-dark pl-0" >{{ item.title }}</a>
+							<a href="{{ link.url }}" alt="{{ link.title }}" class="nav-link text-dark pl-0" >{{ link.title }}</a>
 						</li>
 					{%- endfor -%}
 				</ul>
