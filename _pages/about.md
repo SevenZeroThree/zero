@@ -12,4 +12,4 @@ Zero is a minimalist Jekyll theme intended for use on GitHub Pages. Its goal  is
 
 ****
 
-Zero is maintained by [Christopher Tobin](https://thesevenzerothree.com);
+Zero is maintained by [Christopher Tobin](https://www.thesevenzerothree.com).
