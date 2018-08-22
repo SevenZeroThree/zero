@@ -6,7 +6,7 @@ include: ["_pages"]
 # Site Settings
 title: Zero by SevenZeroThree 
 url                       : https://sevenzerothree.github.io
-baseurl                   : /Zero/
+baseurl                   : /zero/
 
 # Github repositories
 github_user: sevenzerothree
