@@ -18,6 +18,11 @@ This is the name of your site. It will appear in several areas of the theme:
 
 *Example Usage*:  `title: "My Site"`
 
+## Author
+The author of the website. This will likely be your name, but can be any name you wish. This will appear in the default footer.
+
+*Example Usage*:    `author: "Christopher Tobin"`
+
 ## Analytics
 Analytics will be disabled unless you provide a Google Analytics Tracking Id *AND/OR* a Google Tag Manager Container Id.
 
