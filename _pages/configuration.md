@@ -17,3 +17,15 @@ This is the name of your site. It will appear in several areas of the theme:
 - The bottom left of every page in the footer area
 
 *Example Usage*:  `title: "My Site"`
+
+## Analytics
+Analytics will be disabled unless you provide a Google Analytics Tracking Id *AND/OR* a Google Tag Manager Container Id.
+
+Don't know what values to put here? Check with [Google Analytics](https://www.google.com/analytics) to get a Google Analytics Tracking Id. It will start with `UA`. If using Google Tag Manager, you can retrieve your Container Id from the [Tag Manager](https://tagmanager.google.com) portal. It will start with `GTM`.
+
+*Example Usage*:
+```
+analytics:
+    google_analytics_tracking_id: "UA-XXXXXX-X"
+    google_tag_manager_container_id: "GTM-XXXXX"
+```
