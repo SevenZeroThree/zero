@@ -7,6 +7,7 @@ include: ["_pages"]
 title: Zero by SevenZeroThree 
 url                       : https://sevenzerothree.github.io
 baseurl                   : /zero/
+author                    : Christopher Tobin
 
 # Github repositories
 github_user: sevenzerothree
