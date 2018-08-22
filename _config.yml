@@ -7,7 +7,7 @@ include: ["_pages"]
 # Analytics
 analytics:
   google_analytics_tracking_id      : # "UA-XXXXXXX-X"
-  google_tag_manager_id   : # "GTM-XXXXX"
+  google_tag_manager_container_id   : # "GTM-XXXXX"
 
 gems:
   - jekyll-sitemap
