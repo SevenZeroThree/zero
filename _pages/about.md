@@ -4,7 +4,7 @@ permalink: /about/
 ---
 
 # About Zero
-Zero is a minimalist Jekyll theme intended for use on GitHub Pages. Its goal  is to be simple to config and easy to implement.
+Zero is a minimalist Jekyll theme intended for use on GitHub Pages. Its goal is to be simple to configure and easy to implement.
 
 ## Dependencies
 
