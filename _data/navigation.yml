@@ -2,3 +2,7 @@
 main:
   - title: "Typography"
     url: "/typography/"
+  - title: "Configuration"
+    url: "/configuration/"
+  - title: "About"
+    url: "/about/"
