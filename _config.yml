@@ -1,6 +1,7 @@
 title                     : Zero
 url                       : # https://sevenzerothree.github.io
 baseurl                   : # /Zero
+author                    : # Author's Name
 
 # Analytics
 analytics:
