@@ -2,8 +2,6 @@ title                     : Zero
 url                       : # https://sevenzerothree.github.io
 baseurl                   : # /Zero
 
-include: ["_pages"]
-
 # Analytics
 analytics:
   google_analytics_tracking_id      : # "UA-XXXXXXX-X"
