@@ -1,6 +1,8 @@
 # Theme Settings
 remote_theme: sevenzerothree/zero
 
+include: ["_pages"]
+
 # Site Settings
 title: Zero by SevenZeroThree 
 url                       : https://sevenzerothree.github.io
