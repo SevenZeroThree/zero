@@ -9,6 +9,10 @@ url                       : https://sevenzerothree.github.io
 baseurl                   : /zero/
 author                    : Christopher Tobin
 
+# Analytics
+analytics:
+  google_analytics_tracking_id      : UA-122943169-2
+
 # Github repositories
 github_user: sevenzerothree
 github_repo_url: https://github.com/sevenzerothree/zero/
